@@ -22,14 +22,9 @@ $ yarn run build
 $ yarn run start
 ```
 
-## 功能清单
-[wiki: Features](https://github.com/jm-team/ng-seed/wiki/Features)
+## 项目预览
+[DEMO](https://visionsj.github.io/ng-seed-ui/)
 
-## 目录说明
-[wiki: Constructs](https://github.com/jm-team/ng-seed/wiki/Constructs)
-
-## 注意事项（坑）
-[wiki: FAQ](https://github.com/jm-team/ng-seed/wiki/FAQ)
 
 ## 依赖
   

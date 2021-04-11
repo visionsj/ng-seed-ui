@@ -2,6 +2,7 @@
 
 #### Ordered by first contribution.
 
+- visionsj <985264090@qq.com>
 - myzhoulang <604389771@qq.com>
 - ICELI <woticeli@gmail.com>
 - haolisha <891902161@qq.com>
