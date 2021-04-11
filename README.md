@@ -23,7 +23,7 @@ $ yarn run start
 ```
 
 ## 预览地址
-[wiki: Features](https://github.com/jm-team/ng-seed-ui/wiki/Features)
+[wiki: Features](https://github.com/visionsj/ng-seed-ui-ui/wiki/Features)
 
 
 ## 依赖
